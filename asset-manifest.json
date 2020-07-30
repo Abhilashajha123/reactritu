@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactritu/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reactritu/static/js/main.43b57269.chunk.js",
+    "main.js.map": "/reactritu/static/js/main.43b57269.chunk.js.map",
+    "runtime-main.js": "/reactritu/static/js/runtime-main.f9e11add.js",
+    "runtime-main.js.map": "/reactritu/static/js/runtime-main.f9e11add.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/reactritu/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.ee5685cb.chunk.js": "/reactritu/static/js/2.ee5685cb.chunk.js",
+    "static/js/2.ee5685cb.chunk.js.map": "/reactritu/static/js/2.ee5685cb.chunk.js.map",
+    "index.html": "/reactritu/index.html",
+    "precache-manifest.b56b60b8939a0787ec33bc6d449e9545.js": "/reactritu/precache-manifest.b56b60b8939a0787ec33bc6d449e9545.js",
+    "service-worker.js": "/reactritu/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/reactritu/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reactritu/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ee5685cb.chunk.js.LICENSE.txt": "/reactritu/static/js/2.ee5685cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9e11add.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.ee5685cb.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.43b57269.chunk.js"
+  ]
+}
