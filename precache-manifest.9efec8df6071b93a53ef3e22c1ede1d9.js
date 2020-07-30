@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34cc398c36ff46218b7430e1ef359c6a",
+    "revision": "4b0e59ef2b0b480e18fdfb48c0d28ec9",
     "url": "/reactritu/index.html"
   },
   {
-    "revision": "be5452197880095cad68",
+    "revision": "375cc7661fc5f465bdbb",
     "url": "/reactritu/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "f917be81001b19265e58",
+    "revision": "78672fcfbbc805bc9d9b",
     "url": "/reactritu/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "be5452197880095cad68",
-    "url": "/reactritu/static/js/2.ee5685cb.chunk.js"
+    "revision": "375cc7661fc5f465bdbb",
+    "url": "/reactritu/static/js/2.567aae5e.chunk.js"
   },
   {
     "revision": "361388382a7cba0b7cd58ae9b81faa0e",
-    "url": "/reactritu/static/js/2.ee5685cb.chunk.js.LICENSE.txt"
+    "url": "/reactritu/static/js/2.567aae5e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f917be81001b19265e58",
-    "url": "/reactritu/static/js/main.43b57269.chunk.js"
+    "revision": "78672fcfbbc805bc9d9b",
+    "url": "/reactritu/static/js/main.560c46ce.chunk.js"
   },
   {
     "revision": "fe2043186d554b523d94",
